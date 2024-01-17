@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Local">
+    <test name="LocalTest">
+        <classes>
+            <class name="com.browserstack2.BStackLocalTest"/>
+            <class name="com.browserstack2.SeleniumTest"/>
+        </classes>
+    </test>
+</suite>
+
